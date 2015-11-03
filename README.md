@@ -12,7 +12,7 @@
 -
 
 - HTML & CSS3
-	- HTML5 
+	- HTML5
 	- CSS framework: Bootstrap
 	- Responsive Web Design
 - FrontEnd Programming Language
@@ -32,4 +32,40 @@
 
 #工作經歷
 -
+
+####國立屏東科技大學-程式設計師(2012年9月 – 目前)
+
+在屏科大電算中心擔任程式設計師一職，主要負責
+
+- Linux Server、Windows Server Maintenance
+- Firewall、Network Setting and Maintenance
+- Web App Development
+- Mobile App Development
+- Moodle System Training
+
+TECHNOLOGIES USED
+
+- Development: Git & Bitbucket
+- Back-end: Centos/Redhat, Windows Server 2008 R2, Moodle, PHP, Python, Node.js, Yii, LoopBack, Java, Cordova, Mysql
+- Front-end: JQuery, Angularjs, Bootstrap
+
+FEATURED
+
+- RWD Web App - 採用響應式設計開發系統,可以讓使用者不管是利用電腦或行動化裝置皆可方便瀏覽與操作系統
+- Mysql HA building - 建置高可用性資料庫,如發生系統故障或資料庫出現問題時,可以無縫轉移提供不間斷服務
+- Hybrid Mobile App - 利用Hybrid技術,開發Android與ios平台皆可使用App
+
+PARTICIPANT PROJECTS
+
+- 數位學習平台
+
+![GA](https://www.dropbox.com/s/euz3h9cw3t1lg1y/moodle.png) 
+
+- 教學助理大班助學金申請管理系統
+
+- 屏科大校園App
+
+![GA](https://www.dropbox.com/s/44uhxx9xbmnv7tu/npustapp.png) 
+
+
 
