@@ -65,7 +65,14 @@ PARTICIPANT PROJECTS
 
 - 屏科大校園App
 
-![NpustApp GA](http://www.imageurlhost.com/di/IH5W/npustapp.png) 
+![GA](http://www.imageurlhost.com/di/IH5W/npustapp.png) 
+
+####東港安泰醫院-程式設計師(2010-07~2011-07 1年1個月)
+在東港安泰醫院主要負責醫療資訊系統開發,主要負責系統
+
+- 營養系統
+- 護理管理系統
+- 感控系統
 
 
 
