@@ -56,13 +56,13 @@ FEATURED
 
 PARTICIPANT PROJECTS
 
-- 數位學習平台
+- [數位學習平台](http://elearning.npust.edu.tw/moodle/)
 
 ![Moodle GA](http://www.imageurlhost.com/di/7299/moodle.png) 
 
-- 教學助理大班助學金申請管理系統
+- [教學助理大班助學金申請管理系統](https://elearning.npust.edu.tw/fellowship/#/)
 
-- 屏科大校園App
+- [屏科大校園App](https://play.google.com/store/apps/details?id=npust.edu.tw.npuststuapp&hl=zh-TW)
 
 ![GA](http://www.imageurlhost.com/di/IH5W/npustapp.png) 
 
