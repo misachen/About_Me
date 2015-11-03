@@ -1,5 +1,5 @@
 #陳志豐(Chih-Feng Chen)
--
+
 
 - Birthday:October,25,1982
 - Education: 國立屏東科技大學-資訊管理學碩士
@@ -7,8 +7,8 @@
 - Location: Pingtung
 - E-Mail: [diablofong@gmail.com](diablofong@gmail.com)
 
-#專業技能
--
+##專業技能
+
 
 - HTML & CSS3
 	- HTML5
@@ -29,8 +29,8 @@
 	- Hybrid mobile app : Cordova & ngCordova
 	- Data Base : MySQL & MSSQL & Oracle
 
-#工作經歷
--
+##工作經歷
+
 
 ####國立屏東科技大學-程式設計師(2012年9月 – 目前)
 
@@ -44,8 +44,8 @@
 
 TECHNOLOGIES USED
 
-- Development: Git & Bitbucket
-- Back-end: Centos/Redhat, Windows Server 2008 R2, Moodle, PHP, Python, Node.js, Yii, LoopBack, Java, Cordova, Mysql
+- Version control: Git & Bitbucket
+- Back-end: PHP, Python, Node.js, Yii, LoopBack, Java, Cordova, Mysql
 - Front-end: JQuery, Angularjs, Bootstrap
 
 FEATURED
@@ -75,7 +75,7 @@ PARTICIPANT PROJECTS
 
 TECHNOLOGIES USED
 
-- Development: SVN
+- Version control: SVN
 - Back-end: D2k, Delphi, Oracle
 
 ####中冠資訊-程式設計師(2008-05~2009-11 1年7個月)
@@ -87,7 +87,7 @@ TECHNOLOGIES USED
 
 TECHNOLOGIES USED
 
-- Development: CVS
+- Version control: CVS
 - Back-end: Java, Struts, Tomcat, Oracle
 - Front-end: JSP
 
