@@ -6,7 +6,6 @@
 - Personal Website: [https://studio-diablofong.rhcloud.com/studio/](https://studio-diablofong.rhcloud.com/studio/)
 - Location: Pingtung
 - E-Mail: [diablofong@gmail.com](diablofong@gmail.com)
-- Mobile: +886-921503301
 
 #專業技能
 -
