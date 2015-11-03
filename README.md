@@ -74,5 +74,44 @@ PARTICIPANT PROJECTS
 - 護理管理系統
 - 感控系統
 
+TECHNOLOGIES USED
+
+- Development: SVN
+- Back-end: D2k, Delphi, Oracle
+
+####中冠資訊-程式設計師(2008-05~2009-11 1年7個月)
+在中冠資訊主要負責ERP系統銷售模組開發,參與開發專案
+
+- 中鋁詢問單系統開發
+- 中鋁銷售模組維護
+- 永光華二期ERP銷售模組開發
+
+TECHNOLOGIES USED
+
+- Development: CVS
+- Back-end: Java, Struts, Tomcat, Oracle
+- Front-end: JSP
+
+##開發專案
+
+- angular-hmac-sha512 [https://github.com/diablofong/angular-hmac-sha512]([https://github.com/diablofong/angular-hmac-sha512])
+	- angularjs加密套件,利用此套件可以產生sha512＋hmac加密
+	- 藉由開發此套件熟悉angularjs套件開發與加解密演算法
+- yii2-basic-restful [https://github.com/diablofong/yii2-basic-restful](https://github.com/diablofong/yii2-basic-restful)
+	- php後端RESTful Service樣板檔
+	- 藉由開發此樣板檔熟悉Yii Framework RESTful設定與架構,利用此樣板檔可以簡化開發設定
+- ezupload [https://github.com/diablofong/ezupload] (https://github.com/diablofong/ezupload)
+	- ezupload檔案上傳系統是一個簡易的檔案上傳系統，提供了使用者註冊與上傳並管理自己檔案功能
+	- 熟悉Yii Framework前台與後台開發模式與檔案上傳功能
+
+##語言能力
+
+- Chinese (Native)
+- English (Basic)
+
+##個人特質
+
+- 喜歡嘗試新興技術，所學不只侷限於目前所熟習的知識。
+- 善於團隊合作，能夠快速融入團隊氣氛，並一起為目標努力。
 
 
