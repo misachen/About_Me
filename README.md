@@ -3,7 +3,7 @@
 
 - Birthday:October,25,1982
 - Education:國立屏東科技大學-資訊管理系碩士 
-- Personal Website: [https://studio-diablofong.rhcloud.com/studio/](https://studio-diablofong.rhcloud.com/studio/)
+- Personal Website: [http://duncanchen.strikingly.com//](http://duncanchen.strikingly.com/)
 - Location: Pingtung
 - E-Mail: [diablofong@gmail.com](diablofong@gmail.com)
 
