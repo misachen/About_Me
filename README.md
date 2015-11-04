@@ -20,6 +20,8 @@
 	- Java
 	- Python
 	- Nodejs
+	- PL-SQL
+	- Object pascal
 - Familiar Framework:
 	- Angular.js
 	- Yii 
