@@ -2,7 +2,7 @@
 
 
 - Birthday:October,25,1982
-- Education: 國立屏東科技大學-資訊管理學碩士
+- Education: National Pingtung University of Science and Technology-Department of Management Information Systems, Master 
 - Personal Website: [https://studio-diablofong.rhcloud.com/studio/](https://studio-diablofong.rhcloud.com/studio/)
 - Location: Pingtung
 - E-Mail: [diablofong@gmail.com](diablofong@gmail.com)
@@ -13,7 +13,6 @@
 - HTML & CSS3
 	- HTML5
 	- CSS framework: Bootstrap
-	- Responsive Web Design
 - FrontEnd Programming Language
 	- Javascript/CSS/HTML
 - BackEnd Programming Language
