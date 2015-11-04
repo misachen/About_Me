@@ -2,7 +2,7 @@
 
 
 - Birthday:October,25,1982
-- Education: National Pingtung University of Science and Technology-Department of Management Information Systems, Master 
+- Education:國立屏東科技大學-資訊管理系碩士 
 - Personal Website: [https://studio-diablofong.rhcloud.com/studio/](https://studio-diablofong.rhcloud.com/studio/)
 - Location: Pingtung
 - E-Mail: [diablofong@gmail.com](diablofong@gmail.com)
