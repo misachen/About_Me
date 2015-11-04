@@ -92,6 +92,14 @@ TECHNOLOGIES USED
 - Back-end: Java, Struts, Tomcat, Oracle
 - Front-end: JSP
 
+
+####東友科技-測試工程師(2007-05~2008-5 1年)
+在東友科技主要負責印表機與傳真機測試,其主要測試工作
+
+- 軟體測試
+- 網路模組測試
+- 多工模組測試
+
 ##開發專案
 
 - angular-hmac-sha512 [https://github.com/diablofong/angular-hmac-sha512]([https://github.com/diablofong/angular-hmac-sha512])
