@@ -46,8 +46,9 @@
 TECHNOLOGIES USED
 
 - Version control: Git & Bitbucket
-- Back-end: PHP, Python, Node.js, Yii, LoopBack, Java, Cordova, Mysql
+- Back-end: PHP, Python, Node.js, Yii, LoopBack, Java, Cordova 
 - Front-end: JQuery, Angularjs, Bootstrap
+- Database: Mysql
 
 FEATURED
 
@@ -77,7 +78,9 @@ PARTICIPANT PROJECTS
 TECHNOLOGIES USED
 
 - Version control: SVN
-- Back-end: D2k, Delphi, Oracle
+- Database: Oracle
+- Back-end: Object pascal, PL-SQL
+- Develop tool: D2k, Delphi
 
 ####中冠資訊-程式設計師(2008-05~2009-11 1年7個月)
 在中冠資訊主要負責ERP系統銷售模組開發,參與開發專案
@@ -89,8 +92,9 @@ TECHNOLOGIES USED
 TECHNOLOGIES USED
 
 - Version control: CVS
-- Back-end: Java, Struts, Tomcat, Oracle
-- Front-end: JSP
+- Database: MSSQL, Mysql
+- Back-end: Java
+- Develop tool: Eclipse
 
 
 ####東友科技-測試工程師(2007-05~2008-5 1年)
