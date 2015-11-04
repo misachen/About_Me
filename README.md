@@ -55,6 +55,7 @@ FEATURED
 - RWD Web App - 採用響應式設計開發系統,可以讓使用者不管是利用電腦或行動化裝置皆可方便瀏覽與操作系統
 - Mysql HA building - 建置高可用性資料庫,如發生系統故障或資料庫出現問題時,可以無縫轉移提供不間斷服務
 - Hybrid Mobile App - 利用Hybrid技術,開發Android與ios平台皆可使用App
+- RESTful Api Development - 建置Api服務,提供資料介接服務
 
 PARTICIPANT PROJECTS
 
