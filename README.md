@@ -115,6 +115,15 @@ TECHNOLOGIES USED
 	- ezupload檔案上傳系統是一個簡易的檔案上傳系統，提供了使用者註冊與上傳並管理自己檔案功能
 	- 熟悉Yii Framework前台與後台開發模式與檔案上傳功能
 
+##獲獎事蹟
+
+- 2013 Taipei International Invention Show & Technomart, Taipei, Taiwan
+
+- 2013 Moscow International Salon of Industrial Property “Archimedes”‚Moscow, Russia‚Silver medal
+
+- 2012 Inventeco International Invention Show‚Catania, Italy ‚Gold medal
+
+
 ##語言能力
 
 - Chinese (Native)
