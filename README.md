@@ -1,7 +1,5 @@
 #陳志豐(Chih-Feng Chen)
 
-
-- Birthday:October,25,1982
 - Education:國立屏東科技大學-資訊管理系碩士 
 - Personal Website: [http://duncanchen.strikingly.com/](http://duncanchen.strikingly.com/)
 - Location: Pingtung
