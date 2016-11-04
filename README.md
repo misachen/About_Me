@@ -51,6 +51,8 @@ PARTICIPANT PROJECTS
  
 - [四技進修部單獨招生系統](http://4enroll.npust.edu.tw/4enroll)
 
+- [機構典藏(氣象館)](http://140.127.4.157/sw/)
+
 - [校園交通車時刻表](http://osa.npust.edu.tw/Transports_6.aspx)
 
 - [電子公文節能減紙填報系統](http://140.127.4.206/)
