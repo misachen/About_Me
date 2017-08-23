@@ -9,22 +9,50 @@
 
 - HTML & CSS3
 	- HTML5
+	- CSS3
 	- CSS framework: Bootstrap
 - FrontEnd Programming Language
-	- Javascript/CSS/HTML
+	- Javascript/CSS/HTML/JQuery
 - BackEnd Programming Language
 	- PHP
 - Familiar Framework:
 	- Angular.js
 	- Yii 
+	- Silex
 - Tools:
 	- Version control systems : Git & Github & Bitbucket
 	- Data Base : MySQL & MSSQL 
 
 ##工作經歷
 
+####宏康智慧-程式設計師(2017年01月 – 目前)
 
-####國立屏東科技大學-程式設計師(2012年10月 – 目前)
+在宏康智慧擔任程式設計師一職，主要負責
+
+- 前端：網站切版（含RWD）。
+- 後端：資料串接（PHP）。
+- 系統開發文件撰寫。
+- 機器人Pepper開發。
+
+TECHNOLOGIES USED
+
+- Version control: Git & Bitbucket
+- Back-end: PHP,Yii,Silex
+- Front-end: Javascript, JQuery, Angularjs, Bootstrap, Twig
+- Database: Mysql
+
+
+PARTICIPANT PROJECTS
+
+- [台灣大學神經生物與認知科學研究中心](neuroscience.ntu.edu.tw)
+ 
+- [Locate Your Customers Platform](lycp.hellohci.com)
+
+- [亞太智慧生活後台](http://210.200.141.135/seback/web/login.php)
+
+
+
+####國立屏東科技大學-程式設計師(2012年10月 – 2016年12月)
 
 在屏科大電算中心擔任程式設計師一職，主要負責
 
@@ -52,8 +80,6 @@ PARTICIPANT PROJECTS
 - [四技進修部單獨招生系統](http://4enroll.npust.edu.tw/4enroll)
 
 - [機構典藏(氣象館)](http://140.127.4.157/sw/)
-
-- [校園交通車時刻表](http://osa.npust.edu.tw/Transports_6.aspx)
 
 - [電子公文節能減紙填報系統](http://140.127.4.206/)
 
