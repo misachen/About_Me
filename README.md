@@ -44,9 +44,9 @@ TECHNOLOGIES USED
 
 PARTICIPANT PROJECTS
 
-- [台灣大學神經生物與認知科學研究中心](neuroscience.ntu.edu.tw)
+- [台灣大學神經生物與認知科學研究中心](http://neuroscience.ntu.edu.tw)
  
-- [Locate Your Customers Platform](lycp.hellohci.com)
+- [Locate Your Customers Platform](http://lycp.hellohci.com/)
 
 - [亞太智慧生活後台](http://210.200.141.135/seback/web/login.php)
 
