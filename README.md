@@ -1,11 +1,9 @@
 #陳雅婷(Misa Chen)
 
-- Education:實踐大學-資訊科技與通訊學系 
-- Location: Pingtung
+- 學歷:實踐大學-資訊科技與通訊學系 
 - E-Mail: [r2ting0316@gmail.com]
 
 ##專業技能
-
 
 - HTML & CSS3
 	- HTML5
@@ -25,30 +23,30 @@
 
 ##工作經歷
 
-####宏康智慧-程式設計師(2017年01月 – 目前)
+####宏康智慧-程式設計師(2017年01月 – 2018年02月)
 
 在宏康智慧擔任程式設計師一職，主要負責
 
-- 前端：網站切版（含RWD）。
-- 後端：資料串接（PHP）。
+- 公司內部系統開發。
+- 專案開發。
 - 系統開發文件撰寫。
 - 機器人Pepper開發。
 
-TECHNOLOGIES USED
+使用技術
 
-- Version control: Git & Bitbucket
+- Version control systems: Git & Hg
 - Back-end: PHP,Yii,Silex
 - Front-end: Javascript, JQuery, Angularjs, Bootstrap, Twig
 - Database: Mysql
 
 
-PARTICIPANT PROJECTS
+作品
 
 - [台灣大學神經生物與認知科學研究中心](http://neuroscience.ntu.edu.tw)
  
-- [Locate Your Customers Platform](http://lycp.hellohci.com/)
+- [神來客](https://fweb.sunlyc.com/)
 
-- [亞太智慧生活後台](http://210.200.141.135/seback/web/login.php)
+- [亞太智慧生活後台](http://smartbadge.hcinnovation.tw/seback/web/)
 
 
 
@@ -61,21 +59,17 @@ PARTICIPANT PROJECTS
 - 設計、開發及維護校園網站。
 - 編寫系統操作方法之說明手冊。
 
-TECHNOLOGIES USED
+使用技術
 
-- Version control: Git & Bitbucket
+- Version control systems: Git & Bitbucket
 - Back-end: PHP,Yii
 - Front-end: JQuery, Angularjs, Bootstrap
 - Database: Mysql
 
-FEATURED
 
-- RWD Web App - 採用響應式設計開發系統,可以讓使用者不管是利用電腦或行動化裝置皆可方便瀏覽與操作系統
-- RESTful Api Development - 建置Api服務,提供資料介接服務
+作品
 
-PARTICIPANT PROJECTS
-
-- [教師教學助理申請系統](https://elearning.npust.edu.tw/ta/#/)
+- [教師教學助理申請系統](https://elearning.npust.edu.tw/ta/)
  
 - [四技進修部單獨招生系統](http://4enroll.npust.edu.tw/4enroll)
 
@@ -91,7 +85,7 @@ PARTICIPANT PROJECTS
 - POS系統分析,設計,撰寫及維護
 - 協助其他工程師撰寫Android系統
 
-TECHNOLOGIES USED
+使用技術
 
 - Database: MySQL
 - Back-end:PHP
