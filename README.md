@@ -10,16 +10,15 @@
 	- CSS3
 	- CSS framework: Bootstrap
 - FrontEnd Programming Language
-	- Javascript/CSS/HTML/JQuery
+	- Javascript / CSS / HTML / JQuery / D3.js
 - BackEnd Programming Language
 	- PHP
 - Familiar Framework:
 	- Angular.js
 	- Yii2 
 	- PHP Silex
-	- D3.js
 - Tools:
-	- Version control systems : Git & Github & Bitbucket
+	- Version control systems : Git / Github / Bitbucket / Hg
 	- Data Base : MySQL & MSSQL 
 
 ##工作經歷
@@ -37,7 +36,7 @@
 
 - Version control systems: Git & Hg
 - Back-end: PHP,Yii2,PHP Silex
-- Front-end: Javascript, JQuery, Angularjs, Bootstrap, Twig
+- Front-end: Javascript, JQuery, Angularjs, Bootstrap, Twig, D3js
 - Database: Mysql
 
 
