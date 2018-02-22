@@ -15,8 +15,9 @@
 	- PHP
 - Familiar Framework:
 	- Angular.js
-	- Yii 
-	- Silex
+	- Yii2 
+	- PHP Silex
+	- D3.js
 - Tools:
 	- Version control systems : Git & Github & Bitbucket
 	- Data Base : MySQL & MSSQL 
@@ -35,7 +36,7 @@
 使用技術
 
 - Version control systems: Git & Hg
-- Back-end: PHP,Yii,Silex
+- Back-end: PHP,Yii2,PHP Silex
 - Front-end: Javascript, JQuery, Angularjs, Bootstrap, Twig
 - Database: Mysql
 
@@ -62,7 +63,7 @@
 使用技術
 
 - Version control systems: Git & Bitbucket
-- Back-end: PHP,Yii
+- Back-end: PHP,Yii2
 - Front-end: JQuery, Angularjs, Bootstrap
 - Database: Mysql
 
@@ -72,8 +73,6 @@
 - [教師教學助理申請系統](https://elearning.npust.edu.tw/ta/)
  
 - [四技進修部單獨招生系統](http://4enroll.npust.edu.tw/4enroll)
-
-- [機構典藏(氣象館)](http://140.127.4.157/sw/)
 
 - [電子公文節能減紙填報系統](http://140.127.4.206/)
 
