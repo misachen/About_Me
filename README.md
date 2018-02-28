@@ -18,7 +18,7 @@
 	- Yii2 
 	- PHP Silex
 - Tools:
-	- Version control systems : Git / Github / Bitbucket / Hg
+	- Version control systems : Git / Github / Bitbucket
 	- Data Base : MySQL & MSSQL 
 
 ##工作經歷
@@ -34,7 +34,7 @@
 
 使用技術
 
-- Version control systems: Git & Hg
+- Version control systems: Git
 - Back-end: PHP,Yii2,PHP Silex
 - Front-end: Javascript, JQuery, Angularjs, Bootstrap, Twig, D3js
 - Database: Mysql
