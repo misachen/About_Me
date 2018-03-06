@@ -44,7 +44,7 @@
 
 - [台灣大學神經生物與認知科學研究中心](http://neuroscience.ntu.edu.tw)
  
-- [神來客](https://fweb.sunlyc.com/)
+- [神來客](https://www.sunlyc.com)
 
 - [亞太智慧生活後台](http://smartbadge.hcinnovation.tw/seback/web/)
 
